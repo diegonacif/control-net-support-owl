@@ -1,0 +1,25 @@
+Procedimentos: [
+  Procedimento: [
+    {
+      título,
+      descrição,
+      imagens: [
+        { título, url },
+        { título, url },
+        { título, url },
+        { título, url },
+        { título, url },
+      ]
+    },
+    {
+      título,
+      descrição,
+      imagens,
+    },
+    {
+      título,
+      descrição,
+      imagens,
+    },
+  ]
+]

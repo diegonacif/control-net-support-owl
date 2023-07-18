@@ -1,0 +1,38 @@
+{
+  "procedures": [
+    {
+      "id": "p1",
+      "title": "Problemas de conexão",
+      "description": "1. Retirar equipamentos da tomada. 2. Enviar foto dos equipamentos (analise a foto). se a ONU tiver so uma luz acesa foi queda de energia, precisa agendar visita para trocar ONU e fonte. Se a ONU estiver com a luz LOS vermelha significa q ta sem sinal de fibra (pode ser que o conector ou a fibra tenha sido quebrada). Se a ONU estiver com a luz PON apagada significa que está sem sinal de fibra. A LAN é quando tem sinal do roteador.",
+      "category": "categoria do procedimento",
+      "createdAt": "2023-07-06T13:18:32.308Z",
+      "images": [
+        {
+          "imgUrl": "url da imagem"
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "Instalação de cliente antigo",
+      "description": "1. Retirar equipamentos da tomada. 2. Enviar foto dos equipamentos (analise a foto). se a ONU tiver so uma luz acesa foi queda de energia, precisa agendar visita para trocar ONU e fonte. Se a ONU estiver com a luz LOS vermelha significa q ta sem sinal de fibra (pode ser que o conector ou a fibra tenha sido quebrada). Se a ONU estiver com a luz PON apagada significa que está sem sinal de fibra. A LAN é quando tem sinal do roteador.",
+      "category": "categoria do procedimento",
+      "createdAt": "2023-07-06T13:18:32.308Z",
+      "images": [
+        {
+          "imgUrl": "url da imagem"
+        }
+      ]
+    }
+  ],
+
+  "scripts": [
+    {
+      "id": "s1",
+      "description": "mensagem do script",
+      "category": "Recepção",
+      "scope": "general"
+    }
+  ]
+
+}
